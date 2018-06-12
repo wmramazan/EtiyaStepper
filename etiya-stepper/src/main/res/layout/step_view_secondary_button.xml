@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/etiya_step_button_height"
+    android:background="@drawable/secondary_ripple"
+    app:fontFamily="sans-serif-medium"
+    android:textColor="@drawable/secondary_ripple_text_color"
+    android:textAllCaps="true"/>

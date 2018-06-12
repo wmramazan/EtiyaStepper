@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EtiyaStepper</string>
+
+    <string name="title">EtiyaStepper</string>
+    <string name="description">Separate your task to steps.</string>
+
+    <string name="step_1">Step 1</string>
+    <string name="step_1_content">Content of Step 1</string>
+
+    <string name="step_2">Step 2</string>
+    <string name="step_2_content">Content of Step 2</string>
+
+    <string name="step_3">Step 3</string>
+    <string name="step_3_content">Content of Step 3</string>
+    <string name="custom_summary">Step 3 - Custom Summary</string>
+
+    <string name="step_4">Step 4</string>
+    <string name="step_4_content">Content of Step 4</string>
+
+    <string name="save">Save</string>
+    <string name="validate">Validate</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+
+</resources>

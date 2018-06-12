@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="EtiyaStepperLayout">
+        <attr name="stepper_title" format="reference|string" />
+        <attr name="stepper_description" format="reference|string" />
+    </declare-styleable>
+
+    <declare-styleable name="EtiyaStepView">
+        <attr name="step_name" format="reference|string" />
+        <attr name="step_button" format="reference|string" />
+        <attr name="step_secondary_button" format="reference|string" />
+        <attr name="summary_title" format="reference|string" />
+        <attr name="hide_step_name" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="EtiyaProgressButton">
+        <attr name="button_text" format="reference|string" />
+    </declare-styleable>
+
+</resources>

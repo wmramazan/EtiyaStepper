@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/etiya_step_button_height"
+    android:orientation="vertical"
+    android:background="@drawable/ripple"
+    android:clickable="true"
+    android:focusable="true">
+
+    <TextView
+        android:id="@+id/tvProgressButton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:fontFamily="sans-serif-medium"
+        android:padding="@dimen/etiya_step_view_padding"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textAllCaps="true"
+        android:textSize="@dimen/etiya_step_button_text_size"
+        android:visibility="visible"/>
+
+    <ProgressBar
+        android:id="@+id/pbProgressButton"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/etiya_step_button_height"
+        style="?android:attr/progressBarStyle"
+        android:padding="@dimen/etiya_step_view_padding"
+        android:layout_gravity="center"
+        android:visibility="gone"/>
+
+</LinearLayout>

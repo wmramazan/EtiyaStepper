@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="EtiyaStepperLayoutHeaderTextStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/etiya_stepper_text_color</item>
+        <item name="android:textSize">@dimen/etiya_stepper_header_text_size</item>
+    </style>
+
+    <style name="EtiyaStepViewHeaderTextStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/etiya_stepper_text_color</item>
+        <item name="android:textSize">@dimen/etiya_step_view_text_size</item>
+    </style>
+
+    <style name="EtiyaStepViewSummaryTextStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/etiya_step_summary_text_color</item>
+        <item name="android:textSize">@dimen/etiya_step_view_text_size</item>
+    </style>
+
+</resources>

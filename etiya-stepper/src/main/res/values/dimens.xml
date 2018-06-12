@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="etiya_stepper_header_text_size">14sp</dimen>
+    <dimen name="etiya_step_view_text_size">16sp</dimen>
+
+    <dimen name="etiya_step_view_space">16dp</dimen>
+    <dimen name="etiya_step_view_padding">4dp</dimen>
+    <dimen name="etiya_step_button_height">40dp</dimen>
+    <dimen name="etiya_step_button_text_size">16sp</dimen>
+    <dimen name="etiya_step_button_margin_top">12dp</dimen>
+    <dimen name="etiya_step_secondary_button_margin_top">6dp</dimen>
+
+</resources>
