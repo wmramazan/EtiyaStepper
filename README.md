@@ -102,7 +102,7 @@ btnProgress.setOnClickListener(...);
 btnProgress.showProgress();
 ```
 
-In order to see other features, you can look at the sample application.
+In order to see other features, you can look at the sample application and read [documentation](https://wmramazan.github.io/EtiyaStepper).
 
 ## License
     Licensed under the Apache License, Version 2.0 (the "License");
