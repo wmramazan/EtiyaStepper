@@ -3,7 +3,6 @@ package com.etiya.stepper;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -140,7 +139,7 @@ public class EtiyaStepperLayout extends LinearLayout {
 
     /**
      * Shows the specified step.
-     * @param step
+     * @param step integer value of step
      */
     public void showStep(int step) {
         setStep(step);
@@ -165,7 +164,7 @@ public class EtiyaStepperLayout extends LinearLayout {
 
     /**
      * Returns all of step views.
-     * @return List<EtiyaStepView> stepViews
+     * @return List&lt;EtiyaStepView&gt; stepViews
      */
     public List<EtiyaStepView> getSteps() {
         return stepViews;

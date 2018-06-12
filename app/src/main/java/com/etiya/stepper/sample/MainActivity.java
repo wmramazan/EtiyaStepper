@@ -1,8 +1,8 @@
 package com.etiya.stepper.sample;
 
+import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.view.View;
 
 import com.etiya.stepper.EtiyaStepperLayout;
@@ -11,10 +11,10 @@ public class MainActivity extends AppCompatActivity {
 
     EtiyaStepperLayout etiyaStepperLayout;
 
-    public static int STEP_1 = 1;
-    public static int STEP_2 = 2;
-    public static int STEP_3 = 3;
-    public static int STEP_4 = 4;
+    public static final int STEP_1 = 1;
+    public static final int STEP_2 = 2;
+    public static final int STEP_3 = 3;
+    public static final int STEP_4 = 4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -117,3 +117,8 @@ In order to see other features, you can look at the sample application.
 ![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141736.png)
 ![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141742.png)
 ![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141953.png)
+
+***
+**Thanks to [omerakkus](https://github.com/omerakkus)**
+
+[Etiya Mobile Team](https://www.etiya.com/)
