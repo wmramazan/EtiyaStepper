@@ -1,4 +1,4 @@
-# EtiyaStepper
+# EtiyaStepper [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com) [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
 
 An Android library which provides to separate your task to steps.
 
@@ -9,6 +9,15 @@ An Android library which provides to separate your task to steps.
 - Progress Button
 - Collapse and Expand Step
 - Default and Custom Summary
+
+## Integration
+Just add the dependency to your `build.gradle`:
+
+```groovy
+dependencies {
+    compile 'com.etiya.stepper:EtiyaStepper:0.1.0'
+}
+```
 
 ## Views
 
