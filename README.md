@@ -77,7 +77,6 @@ dependencies {
 ```
 
 ## Usage
-
 ```java
 EtiyaStepperLayout stepper = findViewById(R.id.stepper);
 
@@ -106,7 +105,6 @@ btnProgress.showProgress();
 In order to see other features, you can look at the sample application.
 
 ## License
-
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
@@ -120,12 +118,11 @@ In order to see other features, you can look at the sample application.
     limitations under the License.
 
 ## Other Screenshots
-
+![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141953.png)
 ![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141724.png)
 ![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141730.png)
 ![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141736.png)
 ![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141742.png)
-![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141953.png)
 
 ***
 **Thanks to [omerakkus](https://github.com/omerakkus)**
