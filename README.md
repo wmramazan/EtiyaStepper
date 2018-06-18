@@ -2,7 +2,7 @@
 
 An Android library which provides to separate your task to steps.
 
-![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141714.png)
+![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-18-083623.png)
 
 ## Features
 - Progress Bar
@@ -15,7 +15,7 @@ Just add the dependency to your `build.gradle`:
 
 ```groovy
 dependencies {
-    compile 'com.etiya.stepper:EtiyaStepper:0.1.0'
+    implementation 'com.etiya.stepper:EtiyaStepper:0.1.0'
 }
 ```
 
@@ -118,11 +118,11 @@ In order to see other features, you can look at the sample application and read 
     limitations under the License.
 
 ## Other Screenshots
-![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141953.png)
-![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141724.png)
-![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141730.png)
-![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141736.png)
-![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-12-141742.png)
+![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-18-083736.png)
+![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-18-083406.png)
+![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-18-083415.png)
+![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-18-083422.png)
+![preview](https://github.com/wmramazan/EtiyaStepper/blob/master/device-2018-06-18-083428.png)
 
 ***
 **Thanks to [omerakkus](https://github.com/omerakkus)**
