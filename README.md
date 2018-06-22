@@ -15,7 +15,7 @@ Just add the dependency to your `build.gradle`:
 
 ```groovy
 dependencies {
-    implementation 'com.etiya.stepper:EtiyaStepper:0.1.0'
+    implementation 'com.etiya.stepper:etiya-stepper:0.1.0'
 }
 ```
 
