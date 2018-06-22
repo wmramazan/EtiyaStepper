@@ -84,10 +84,11 @@ stepper.getStep(1).setStepButtonOnClickListener(new View.OnClickListener() {
     @Override
     public void onClick(View v) {
         stepper.setEnabled(false);
-        stepper.getCurrentStep().showProgress();
+        stepper.showProgress();
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
+                stepper.getCurrentStep().setStepSummaryText("Result");
                 stepper.nextStep();
                 stepper.setEnabled(true);
             }
