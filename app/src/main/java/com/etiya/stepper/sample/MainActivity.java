@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 etiyaStepperLayout.setEnabled(false);
-                etiyaStepperLayout.getCurrentStep().showProgress();
+                etiyaStepperLayout.showProgress();
                 new Handler().postDelayed(new Runnable() {
                     @Override
                     public void run() {
@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 etiyaStepperLayout.setEnabled(false);
-                etiyaStepperLayout.getCurrentStep().showProgress();
+                etiyaStepperLayout.showProgress();
                 new Handler().postDelayed(new Runnable() {
                     @Override
                     public void run() {
@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 etiyaStepperLayout.setEnabled(false);
-                etiyaStepperLayout.getCurrentStep().showProgress();
+                etiyaStepperLayout.showProgress();
                 new Handler().postDelayed(new Runnable() {
                     @Override
                     public void run() {
@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 etiyaStepperLayout.setEnabled(false);
-                etiyaStepperLayout.getCurrentStep().showProgress();
+                etiyaStepperLayout.showProgress();
                 new Handler().postDelayed(new Runnable() {
                     @Override
                     public void run() {
