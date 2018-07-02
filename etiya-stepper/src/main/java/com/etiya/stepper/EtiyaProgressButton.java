@@ -2,7 +2,9 @@ package com.etiya.stepper;
 
 import android.content.Context;
 import android.content.res.TypedArray;
+import android.graphics.PorterDuff;
 import android.support.annotation.Nullable;
+import android.support.v4.content.ContextCompat;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.widget.LinearLayout;
@@ -68,6 +70,7 @@ public class EtiyaProgressButton extends LinearLayout {
             tvButtonText.setText(strButtonText);
 
         pbProgress = (ProgressBar) llContent.getChildAt(1);
+        pbProgress.getIndeterminateDrawable().setColorFilter(ContextCompat.getColor(context, R.color.etiya_progress_color), PorterDuff.Mode.SRC_IN);
     }
 
     /**

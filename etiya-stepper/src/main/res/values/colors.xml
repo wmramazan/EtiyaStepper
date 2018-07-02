@@ -12,4 +12,6 @@
     <color name="etiya_ripple_button_disable_color">#E2E2E8</color>
     <color name="etiya_ripple_button_disable_color_secondary">#e0e0e9</color>
 
+    <color name="etiya_progress_color">#FFFFFF</color>
+
 </resources>
